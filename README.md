@@ -75,15 +75,15 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 MT Store
-**Full-Stack E-Commerce Platform**
+### 🛒 HOUSE PRICE PREDICTOR
+**Machine learning **
 
-A modern, production-ready e-commerce application with a complete shopping experience.
+A modern, production-ready  application with a complete  experience.
 
 **Key Features:**
-- Secure user authentication
-- Shopping cart & wishlist
-- Admin dashboard for inventory & orders
+- Select Size,Rooms,Location
+- view different Houses Prices
+- 
 - Secure checkout flow
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -177,9 +177,7 @@ Visit my portfolio to see all projects with live demos, source code, and detaile
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sokman6702&theme=aura" width="49%" alt="Stats"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sokman6702&theme=holi&utcOffset=0" width="49%" alt="Productive Time"/>
 
-<img src="https://streak-stats.demolab.com/?user=maryamtahir9&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=667eea&currStreakLabel=764ba2" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maryamtahir9&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=764ba2&line=667eea&point=ffffff&area=true" alt="Contribution Graph" width="100%"/>
 
 ### 🐍 Watch the snake eat my contributions
 
