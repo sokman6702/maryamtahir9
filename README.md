@@ -196,9 +196,8 @@ Visit my portfolio to see all projects with live demos, source code, and detaile
 
 I'm always open to discussing new projects, collaboration opportunities, internships, or ideas in AI and web development.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.maryamtahir.tech-764BA2?style=flat-square&logo=vercel&logoColor=white)](https://www.maryamtahir.tech/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-maryam--tahir--developer-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maryam-tahir-developer)
-[![Gmail](https://img.shields.io/badge/Gmail-imaryamthir@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imaryamthir@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maryam--tahir--developer-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-salman-7797352b9/)
+[![Gmail](https://img.shields.io/badge/Gmail-imaryamthir@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](salman6105455@gmail.com)
 
 <br/>
 
