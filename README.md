@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=false&text=Mohammad+Salman&textBg=false&fontColor=7A12FF&fontSize=70&fontAlign=49&fontAlignY=49&animation=fadeIn&rotate=0&strokeWidth=0&desc=AI+Engineer+%7C+++ML+Engineer+in+the+Making&descSize=25&descAlign=50&descAlignY=72" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=764BA2&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Web+Applications;React.js+%2B+FastAPI+%2B+Machine+Learning;Turning+Ideas+Into+Real-World+Solutions" alt="Typing Animation"/>
+<<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000B6&width=435&lines=Turning+Ideas+into+Real-World+Solutions;Python+%2B+RAG+%2B+Pytorch" alt="Typing SVG" /></a> />
 
 <br/>
 
