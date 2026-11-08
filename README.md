@@ -196,9 +196,8 @@ Visit my portfolio to see all projects with live demos, source code, and detaile
 
 I'm always open to discussing new projects, collaboration opportunities, internships, or ideas in AI and web development.
 
-[![LinkedIn](https://img.shields.io/badge/Salman6105455%40gmail.com
-)](https://www.linkedin.com/in/mohammad-salman-7797352b9/)
-[![Gmail](https://img.shields.io/badge/Gmail-imaryamthir@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](salman6105455@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/mohammad_salman_7797352b9-blue)](https://www.linkedin.com/in/mohammad-salman-7797352b9/)
+[![Gmail](https://img.shields.io/badge/salman_6105455_@gmail.com-blue)](salman6105455@gmail.com)
 
 <br/>
 
