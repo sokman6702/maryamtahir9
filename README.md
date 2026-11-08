@@ -23,15 +23,15 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" width="30"/> About Me
 
-🎓 **BS Artificial Intelligence** student at **National Textile University, Faisalabad, Pakistan**
+🎓 **BS Artificial Intelligence** student at **CECOS UNIVERCITY Peshawar, Pakistan**
 
-💻 **Frontend Developer** crafting modern, responsive web apps with **React.js**
+💻 **AI Developer** crafting modern, responsive AI apps with **Python**
 
 🤖 Building **AI-powered solutions** with Computer Vision, LLMs & Generative AI
 
 🌱 Currently mastering **RAG pipelines, Deep Learning & System Design**
 
-🎯 **Goal:** Become an **AI Engineer & Full-Stack Developer**
+🎯 **Goal:** Become an **AI Engineer **
 
 🤝 Open to **internships, freelance work & open-source collaboration**
 
