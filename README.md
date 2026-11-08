@@ -138,7 +138,7 @@ Visit my portfolio to see all projects with live demos, source code, and detaile
 <div align="center">
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/View_All_Projects-764BA2?style=for-the-badge&logo=vercel&logoColor=white)](https://maryam-tahir-portfolio.vercel.app/)
+
 
 </div>
 
@@ -169,9 +169,9 @@ Visit my portfolio to see all projects with live demos, source code, and detaile
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maryamtahir9&theme=aura" width="100%" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sokman6702&theme=aura" width="100%" alt="Profile Details"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maryamtahir9&theme=aura" width="49%" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sokman6702&theme=aura" width="49%" alt="Repos per Language"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maryamtahir9&theme=aura" width="49%" alt="Most Commit Language"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maryamtahir9&theme=aura" width="49%" alt="Stats"/>
