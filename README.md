@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Maryam%20Tahir&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Student%20%7C%20Frontend%20Developer%20%7C%20ML%20Engineer%20in%20the%20Making&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=false&text=Mohammad+Salman&textBg=false&fontColor=7A12FF&fontSize=70&fontAlign=49&fontAlignY=49&animation=fadeIn&rotate=0&strokeWidth=0&desc=AI+Engineer+%7C+++ML+Engineer+in+the+Making&descSize=25&descAlign=50&descAlignY=72" width="100%"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=764BA2&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Web+Applications;React.js+%2B+FastAPI+%2B+Machine+Learning;Turning+Ideas+Into+Real-World+Solutions" alt="Typing Animation"/>
