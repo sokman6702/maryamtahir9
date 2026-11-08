@@ -172,10 +172,10 @@ Visit my portfolio to see all projects with live demos, source code, and detaile
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sokman6702&theme=aura" width="100%" alt="Profile Details"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sokman6702&theme=aura" width="49%" alt="Repos per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maryamtahir9&theme=aura" width="49%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sokman6702&theme=aura" width="49%" alt="Most Commit Language"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maryamtahir9&theme=aura" width="49%" alt="Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maryamtahir9&theme=aura&utcOffset=5" width="49%" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sokman6702&theme=aura" width="49%" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sokman6702&theme=holi&utcOffset=0" width="49%" alt="Productive Time"/>
 
 <img src="https://streak-stats.demolab.com/?user=maryamtahir9&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=667eea&currStreakLabel=764ba2" alt="GitHub Streak"/>
 
